@@ -34,13 +34,10 @@ This project aims to predict Bitcoin prices using machine learning techniques. T
    - Evaluate the model's performance using r2_score.
    - Visualize the results with Matplotlib.
 
-<<<<<<< HEAD
 **License:**
 
 This project is licensed under the MIT License.
 
-=======
->>>>>>> d386e24 (Update README.md)
 **Installation:**
 
 Clone the repository and install the required packages:
@@ -49,7 +46,3 @@ Clone the repository and install the required packages:
 git clone https://github.com/AI-models-and-cybersecurity-Python/Bitcoin-Price-Prediction.git
 cd Bitcoin-Price-Prediction
 pip install -r requirements.txt
-
-**License:**
-
-This project is licensed under the MIT License. 
