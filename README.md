@@ -50,3 +50,6 @@ git clone https://github.com/AI-models-and-cybersecurity-Python/Bitcoin-Price-Pr
 cd Bitcoin-Price-Prediction
 pip install -r requirements.txt
 
+**License:**
+
+This project is licensed under the MIT License. 
